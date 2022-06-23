@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "d3b225160f79b777",
+    "type": "split",
+    "children": [
+      {
+        "id": "9231c88d032fcd9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "new note.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7b421e519885041",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d95f4c6f54ea9850",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "efe51d9aaa889ef2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cf43fedd667754dd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1cdcb4077db75f25",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bc51b08e3ea594bb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "685c4997f673cd23",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "new note.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "53f2b930e72ef2cf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "new note.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4f6040d9f9b53731",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "9231c88d032fcd9d",
+  "lastOpenFiles": [
+    "new note.md",
+    "Excalidraw/Drawing 2022-06-17 13.27.06.excalidraw.md",
+    "Коэффициент Корреляции.md",
+    "Корреляционный Момент (Момент Связи, Ковариация).md",
+    "Математическое Ожидание для ДвДСВ.md",
+    "Условное Математическое Ожидание для ОдСВ.md",
+    "Регрессия (функция регрессии).md",
+    "Метод Симпсона.md",
+    "Численное Интегрирование.md",
+    "Интерполяционный Полином Ньютона.md"
+  ]
+}

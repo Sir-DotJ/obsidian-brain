@@ -1,0 +1,29 @@
+{
+  "spellcheck": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "fileSortOrder": "byCreatedTime",
+  "legacyEditor": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheckDictionary": [
+    "Байеса",
+    "Зейделя",
+    "покоординатно",
+    "покоординатной",
+    "Квантилью",
+    "Пирсона",
+    "хиквадрат",
+    "Двусвязный",
+    "двусвязного",
+    "частостями",
+    "частотей",
+    "проранжируем",
+    "частостей"
+  ]
+}

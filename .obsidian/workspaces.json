@@ -1,0 +1,328 @@
+{
+  "workspaces": {
+    "Editing": {
+      "main": {
+        "id": "dc627023ce193d52",
+        "type": "split",
+        "children": [],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a29a9a51ff551a35",
+        "type": "split",
+        "children": [
+          {
+            "id": "d4163ff59a0f1e10",
+            "type": "tabs",
+            "dimension": 33.964049195837276,
+            "children": [
+              {
+                "id": "0dd8c38a6be5f780",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e8df4f3e0f06eecf",
+            "type": "tabs",
+            "dimension": 28.192999053926204,
+            "children": [
+              {
+                "id": "501fb13deb93635a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Дискретная Математика/Частично упорядоченное множество.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.40614967113364653,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2d657c06283b6f30",
+            "type": "tabs",
+            "dimension": 18.92147587511826,
+            "children": [
+              {
+                "id": "d2d6f9a8d6db8874",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "5a0e8466c00532de",
+            "type": "tabs",
+            "dimension": 18.92147587511826,
+            "children": [
+              {
+                "id": "818bc4600d0873de",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "3d1e94dfaef89a33",
+        "type": "split",
+        "children": [
+          {
+            "id": "3030813cb0da5fc0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "050435c064690026",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Дискретная Математика/Частично упорядоченное множество.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "683a0d3182ec1d85",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 213,
+        "collapsed": true
+      },
+      "active": "b3aad3ab6848c49b"
+    },
+    "Reading": {
+      "main": {
+        "id": "dc627023ce193d52",
+        "type": "split",
+        "children": [
+          {
+            "id": "b3aad3ab6848c49b",
+            "type": "leaf",
+            "dimension": 99.99999999999999,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дискретная Математика/Частичный порядок.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a29a9a51ff551a35",
+        "type": "split",
+        "children": [
+          {
+            "id": "d4163ff59a0f1e10",
+            "type": "tabs",
+            "dimension": 33.964049195837276,
+            "children": [
+              {
+                "id": "0dd8c38a6be5f780",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e8df4f3e0f06eecf",
+            "type": "tabs",
+            "dimension": 28.192999053926204,
+            "children": [
+              {
+                "id": "501fb13deb93635a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Дискретная Математика/Частичный порядок.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.9,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 3.08061237956975,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.40614967113364653,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2d657c06283b6f30",
+            "type": "tabs",
+            "dimension": 18.92147587511826,
+            "children": [
+              {
+                "id": "d2d6f9a8d6db8874",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "5a0e8466c00532de",
+            "type": "tabs",
+            "dimension": 18.92147587511826,
+            "children": [
+              {
+                "id": "818bc4600d0873de",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "3d1e94dfaef89a33",
+        "type": "split",
+        "children": [
+          {
+            "id": "3030813cb0da5fc0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "050435c064690026",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Дискретная Математика/Частичный порядок.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "683a0d3182ec1d85",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 213,
+        "collapsed": true
+      },
+      "active": "b3aad3ab6848c49b"
+    }
+  },
+  "active": "Editing"
+}

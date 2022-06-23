@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "LaTeX commands",
+      "path": "Templates/LaTeX commands.md"
+    }
+  ]
+}
