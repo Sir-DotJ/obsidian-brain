@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9231c88d032fcd9d",
+        "id": "31a849169c32dcd9",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-06-17 13.27.06.excalidraw.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b7b421e519885041",
+    "id": "3dff575e1fc758aa",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d95f4c6f54ea9850",
+        "id": "ad468339a84fa082",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -29,7 +27,7 @@
         }
       },
       {
-        "id": "efe51d9aaa889ef2",
+        "id": "311636ea9e3a6156",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -44,7 +42,7 @@
         }
       },
       {
-        "id": "cf43fedd667754dd",
+        "id": "5efa4176a9511ad7",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -55,7 +53,7 @@
         }
       },
       {
-        "id": "1cdcb4077db75f25",
+        "id": "ca88cba3a012a711",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -66,16 +64,23 @@
     "currentTab": 0
   },
   "right": {
-    "id": "bc51b08e3ea594bb",
+    "id": "c424f1dfa4c50638",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "685c4997f673cd23",
+        "id": "68c7340bf7f469a0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "c5639eb3783a155f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2022-06-17 13.27.06.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -87,39 +92,29 @@
         }
       },
       {
-        "id": "53f2b930e72ef2cf",
+        "id": "6febfde77b41b554",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2022-06-17 13.27.06.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
-        }
-      },
-      {
-        "id": "4f6040d9f9b53731",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "9231c88d032fcd9d",
+  "active": "31a849169c32dcd9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-06-17 13.27.06.excalidraw.md",
-    "Коэффициент Корреляции.md",
-    "Корреляционный Момент (Момент Связи, Ковариация).md",
-    "Математическое Ожидание для ДвДСВ.md",
-    "Условное Математическое Ожидание для ОдСВ.md",
-    "Регрессия (функция регрессии).md",
-    "Метод Симпсона.md",
-    "Численное Интегрирование.md",
-    "Интерполяционный Полином Ньютона.md",
-    "Интерполяционный Полином Лагранжа.md"
+    "new.md",
+    "Метод Рунге-Кутты 4-го Порядка.md",
+    "Численное Решения Задачи Коши ОДУ Первого Порядка.md",
+    "Метод Эйлера.md",
+    "Вывод Погрешности Методов Эйлера-Коши.md",
+    "Методы Эйлера-Коши.md",
+    "Вывод Погрешности Метода Эйлера.md",
+    "Ломанная Эйлера.md",
+    "Pasted image 20220623170111.png"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "new.md",
+            "file": "Разностные Аппроксимации Первой Производной.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a6315bdf72b5d524",
+    "id": "af9c1e94053e701b",
     "type": "split",
     "children": [
       {
-        "id": "5e15836fdfe00318",
+        "id": "b647d3d7ff35a8d6",
         "type": "tabs",
         "children": [
           {
-            "id": "e0fb095161d78e7e",
+            "id": "1c259beaff06a081",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "5f0fdf87456c6725",
+            "id": "a5d452f3e9205b54",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "31465f31715ac84a",
+            "id": "4070a44f52737e3a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "664540746db5ead2",
+    "id": "470138aa5f8b5a3c",
     "type": "split",
     "children": [
       {
-        "id": "ce63783fdc75bceb",
+        "id": "ad793c4c928fb4e7",
         "type": "tabs",
         "children": [
           {
-            "id": "50dc044926c4dab6",
+            "id": "ba38f8266d10336e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "29b565c2ccef4af3",
+            "id": "e6f7c248ffb550eb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new.md",
+                "file": "Разностные Аппроксимации Первой Производной.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "86ebffe8361c080a",
+            "id": "0b92049dc296236a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new.md",
+                "file": "Разностные Аппроксимации Первой Производной.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9d1eacdccddb2929",
+            "id": "41848c757b059d30",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,8 +119,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,15 +128,15 @@
   },
   "active": "deb6d0b7b36baebb",
   "lastOpenFiles": [
-    "new.md",
-    "Численное Решения Задачи Коши ОДУ Первого Порядка.md",
-    "Метод Рунге-Кутты 4-го Порядка.md",
-    "Метод Эйлера.md",
-    "Вывод Погрешности Методов Эйлера-Коши.md",
-    "Методы Эйлера-Коши.md",
+    "Разностные Аппроксимации Первой Производной.md",
+    "Левый Разностный Аналог Первой Производной.md",
+    "Правый Разностный Аналог Первой Производной.md",
+    "Центральный Разностный Аналог Первой Производной.md",
+    "Численное Дифференцирование.md",
     "Вывод Погрешности Метода Эйлера.md",
-    "Ломанная Эйлера.md",
-    "Pasted image 20220623170111.png",
-    "Pasted image 20220623165922.png"
+    "Численное Решения Задачи Коши ОДУ Первого Порядка.md",
+    "Templates/LaTeX commands.md",
+    "Математика/Дифференциальные уравнения/Дифференциальное Уравнение (ДУ).md",
+    "Метод Рунге-Кутты 4-го Порядка.md"
   ]
 }
