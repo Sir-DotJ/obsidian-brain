@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "d3b225160f79b777",
+    "type": "split",
+    "children": [
+      {
+        "id": "deb6d0b7b36baebb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Разностные Аппроксимации Первой Производной.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef1b85a3c2754a1f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "59a101a19dfec784",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "b6167d680604886d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6f33278d039f7f21",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b5391076d5b1644a",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "29d6741fa4f0f5dc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c70b812ace58273a",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "bd9f53d3157720a0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Разностные Аппроксимации Первой Производной.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "40dd544c4c37eb93",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Разностные Аппроксимации Первой Производной.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "deb6d0b7b36baebb",
+  "lastOpenFiles": [
+    "Разностные Аппроксимации Первой Производной.md",
+    "Левый Разностный Аналог Первой Производной.md",
+    "Правый Разностный Аналог Первой Производной.md",
+    "Центральный Разностный Аналог Первой Производной.md",
+    "Численное Дифференцирование.md",
+    "Вывод Погрешности Метода Эйлера.md",
+    "Численное Решения Задачи Коши ОДУ Первого Порядка.md",
+    "Templates/LaTeX commands.md",
+    "Математика/Дифференциальные уравнения/Дифференциальное Уравнение (ДУ).md",
+    "Метод Рунге-Кутты 4-го Порядка.md"
+  ]
+}

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "deb6d0b7b36baebb",
+        "id": "d610178d6d268834",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Разностные Аппроксимации Первой Производной.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "latex",
+                "query": "file: метод рун",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,11 +53,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "470138aa5f8b5a3c",
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Разностные Аппроксимации Первой Производной.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Разностные Аппроксимации Первой Производной.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,24 +115,25 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "deb6d0b7b36baebb",
+  "active": "d610178d6d268834",
   "lastOpenFiles": [
-    "Разностные Аппроксимации Первой Производной.md",
-    "Левый Разностный Аналог Первой Производной.md",
-    "Правый Разностный Аналог Первой Производной.md",
-    "Центральный Разностный Аналог Первой Производной.md",
+    "Метод Сеток (Разностный Метод) Решения Задач для ДУ в Одномерном Случае для ОДУ 2-го Порядка.md",
+    "Метод Рунге-Кутты 4-го Порядка.md",
     "Численное Дифференцирование.md",
-    "Вывод Погрешности Метода Эйлера.md",
-    "Численное Решения Задачи Коши ОДУ Первого Порядка.md",
     "Templates/LaTeX commands.md",
-    "Математика/Дифференциальные уравнения/Дифференциальное Уравнение (ДУ).md",
-    "Метод Рунге-Кутты 4-го Порядка.md"
+    "Третья Краевая Задача ДУ.md",
+    "Вторая Краевая Задача ДУ.md",
+    "Первая Краевая Задача ДУ.md",
+    "Разностные Аппроксимации Второй Производной.md",
+    "Разностные Аппроксимации Первой Производной.md",
+    "Центральный Разностный Аналог Первой Производной.md"
   ]
 }
