@@ -4,26 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "d610178d6d268834",
+        "id": "2489fd19107c3ac7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Метод Сеток (Разностный Метод) Решения Начальных Краевых Задач с Одной Переменной.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "04b251de6dcc22a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Метод Сеток (Разностный Метод) Решения Задач для ДУ в Двумерном Случая для ДУ 2-го Порядка с Двумя Переменными.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "af9c1e94053e701b",
+    "id": "317aa29e4faf3c1f",
     "type": "split",
     "children": [
       {
-        "id": "b647d3d7ff35a8d6",
+        "id": "dffe5761d0374231",
         "type": "tabs",
         "children": [
           {
-            "id": "1c259beaff06a081",
+            "id": "d6edbf1ad358335a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,12 +47,12 @@
             }
           },
           {
-            "id": "a5d452f3e9205b54",
+            "id": "9d5eefb2b14ba81b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file: метод рун",
+                "query": "file: краев",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -46,31 +62,29 @@
             }
           },
           {
-            "id": "4070a44f52737e3a",
+            "id": "e943097908c7cc25",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "470138aa5f8b5a3c",
+    "id": "402d2e757d00b55b",
     "type": "split",
     "children": [
       {
-        "id": "ad793c4c928fb4e7",
+        "id": "d0ad86616e25fe32",
         "type": "tabs",
         "children": [
           {
-            "id": "ba38f8266d10336e",
+            "id": "78eca1b324739b0b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -78,11 +92,12 @@
             }
           },
           {
-            "id": "e6f7c248ffb550eb",
+            "id": "9092e7637ac4072b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Метод Сеток (Разностный Метод) Решения Задач для ДУ в Двумерном Случая для ДУ 2-го Порядка с Двумя Переменными.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,18 +109,19 @@
             }
           },
           {
-            "id": "0b92049dc296236a",
+            "id": "910d081012f31fd4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Метод Сеток (Разностный Метод) Решения Задач для ДУ в Двумерном Случая для ДУ 2-го Порядка с Двумя Переменными.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "41848c757b059d30",
+            "id": "7593d6d929499790",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,25 +131,24 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d610178d6d268834",
+  "active": "04b251de6dcc22a9",
   "lastOpenFiles": [
-    "Метод Сеток (Разностный Метод) Решения Задач для ДУ в Одномерном Случае для ОДУ 2-го Порядка.md",
-    "Метод Рунге-Кутты 4-го Порядка.md",
+    "Метод Сеток (Разностный Метод) Решения Задач для ДУ в Двумерном Случая для ДУ 2-го Порядка с Двумя Переменными.md",
+    "Метод Сеток (Разностный Метод) Решения Начальных Краевых Задач с Одной Переменной.md",
+    "Неустойчивость Метода.md",
+    "Устойчивость Метода.md",
+    "Численное Решение Начальных Краевых Задач.md",
     "Численное Дифференцирование.md",
     "Templates/LaTeX commands.md",
-    "Третья Краевая Задача ДУ.md",
-    "Вторая Краевая Задача ДУ.md",
+    "Начальная Краевая Задача.md",
     "Первая Краевая Задача ДУ.md",
-    "Разностные Аппроксимации Второй Производной.md",
-    "Разностные Аппроксимации Первой Производной.md",
-    "Центральный Разностный Аналог Первой Производной.md"
+    "Метод Рунге-Кутты 4-го Порядка.md"
   ]
 }
